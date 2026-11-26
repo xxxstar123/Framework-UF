@@ -28,7 +28,7 @@ For every class and spec · Retail and WoW Forever
 - **Automatic profiles per spec & situation.** Pick a profile for each specialization of your class, and tick on/off overrides for **Dungeon**, **Raid Normal/HC 25M**, **Raid Mythic**, and **Raid 40 Man** — plus one-click Profile Import and Export.
 - **Built-in Combat Timer (/fw misc).** A clean fight timer that can sit anywhere on screen or anchor directly to any unit frame (**Player**, **Target**, **Focus**, **Pet**, **TargetTarget**, **Boss 1**), with *Reset on Boss* and *Hide Out of Combat*.
 - **Sharp on any screen.** Every bar, border, and icon lands on whole screen pixels at any UI scale.
-- **Works with Clique.** Click-cast healing and bindings work out of the box on every unit frame.
+- **Default Click-to-Cast & Clique supported on all frames.** Both Blizzard's built-in Click-Cast Bindings and **Clique** work out of the box on every unit frame (Player, Target, TargetTarget, Focus, Pet, and Boss 1–5).
 
 ---
 
