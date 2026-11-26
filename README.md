@@ -28,6 +28,7 @@ For every class and spec · Retail and WoW Forever
 - **Automatic profiles per spec & situation.** Pick a profile for each specialization of your class, and tick on/off overrides for **Dungeon**, **Raid Normal/HC 25M**, **Raid Mythic**, and **Raid 40 Man** — plus one-click Profile Import and Export.
 - **Built-in Combat Timer (/fw misc).** A clean fight timer that can sit anywhere on screen or anchor directly to any unit frame (**Player**, **Target**, **Focus**, **Pet**, **TargetTarget**, **Boss 1**), with *Reset on Boss* and *Hide Out of Combat*.
 - **Sharp on any screen.** Every bar, border, and icon lands on whole screen pixels at any UI scale.
+- **Anchor any unit frame to any `/fstack` frame name.** In Edit Mode (`/fw edit`), click any unit frame and tick **Anchor Frame To** to attach it to another Framework-UF frame, Blizzard's **Essential Cooldowns** viewer, or **any named frame on your screen** (`Existing Frame` — just type its `/fstack` object name) so your unit frames stay locked to your cooldown pack, action bars, or HUD.
 - **Default Click-to-Cast & Clique supported on all frames.** Both Blizzard's built-in Click-Cast Bindings and **Clique** work out of the box on every unit frame (Player, Target, TargetTarget, Focus, Pet, and Boss 1–5).
 
 ---
@@ -65,9 +66,12 @@ Each unit frame (**Player**, **Target**, **TargetTarget**, **Focus**, **Pet**, *
 
 ---
 
-## Edit Mode (/fw edit) & Show / Hide Rules
+## Edit Mode (/fw edit), Custom `/fstack` Anchoring & Show / Hide Rules
 
-Press **Edit Mode** in the top-right corner of **/fw** (or type **/fw edit**) to drag frames with snap lines, or click any frame to nudge it **1 pixel** with the **Arrow Keys** (**Shift + Arrow** for **10 pixels**). Under **Fader** and **Visibility**, tick when each unit frame should show or fade out (*In Combat*, *Has Target*, *Damaged*, *Casting*, *Dungeon*, *Raid*, *Resting*, *Mounted*, and more).
+Press **Edit Mode** in the top-right corner of **/fw** (or type **/fw edit**) to drag frames with snap lines, or click any frame to open its positioning popup:
+- **Arrow-Key Pixel Nudge:** Nudge any selected frame **1 pixel** with the **Arrow Keys** (**Shift + Arrow** for **10 pixels**).
+- **Anchor to Any `/fstack` Frame Object:** Tick **Anchor Frame To** on any unit frame to lock it to **Screen Center**, **Player / Target / Focus**, Blizzard's **Essential Cooldowns**, or pick **Existing Frame** and type any `/fstack` frame name from any addon on your screen (with full 9-point anchor, target point, and X/Y offsets).
+- **Show / Hide & Fader Rules:** Under **Fader** and **Visibility**, tick when each unit frame should show or fade out (*In Combat*, *Has Target*, *Damaged*, *Casting*, *Dungeon*, *Raid*, *Resting*, *Mounted*, and more).
 
 ![Edit Mode, Snap Grid & Show / Hide Rules](https://raw.githubusercontent.com/xxxstar123/Framework-UF/main/media/diagrams/05-editmode-and-rules.png)
 
