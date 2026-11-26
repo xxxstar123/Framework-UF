@@ -1,0 +1,29 @@
+name: Feature request
+description: Suggest an idea or option for Framework Unitframes
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for helping make Framework Unitframes better! One idea per request, please."
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Framework Unitframes to do?
+      placeholder: "e.g. a new widget option, fader condition, or text tag"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why? How would you use it in combat or out of combat?
+      placeholder: "Your class / role and the situation where it helps"
+  - type: dropdown
+    id: client
+    attributes:
+      label: Game Client
+      options: [Retail (12.x), WoW Forever (1.60.x), Both]
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or examples (optional)
