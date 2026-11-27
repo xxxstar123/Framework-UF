@@ -8,7 +8,7 @@
 
 For every class and spec · Retail and WoW Forever
 
-[![Download on CurseForge](https://img.shields.io/badge/download-CurseForge-F16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/framework-uf)
+[![Download on CurseForge](https://img.shields.io/badge/download-CurseForge-F16436?logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/framework-uf-inspired-by-cuf)
 [![Download on Wago](https://img.shields.io/badge/download-Wago.io-c1272d?logo=wago&logoColor=white)](https://addons.wago.io/addons/framework-uf)
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/j3TH89X9wZ)
 [![Donate with PayPal](https://img.shields.io/badge/donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=mywowace%40proton.me&no_recurring=0&item_name=Support+Framework-UF&currency_code=USD)
